@@ -1,0 +1,25 @@
+{
+  "name": "apostilando-curso-refatoracao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samverneck/apostilando-curso-refatoracao.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samverneck/apostilando-curso-refatoracao/issues"
+  },
+  "homepage": "https://github.com/samverneck/apostilando-curso-refatoracao#readme",
+  "devDependencies": {
+    "gulp-markdown-pdf": "^4.0.0"
+  },
+  "dependencies": {
+    "markdown-pdf": "^8.0.0"
+  }
+}
